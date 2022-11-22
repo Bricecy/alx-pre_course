@@ -1,13 +1,2 @@
-#!/bin/bash
-ALXroot@@a94c85753bd4:/alx-pre_course/0x01-git/bash#cat alx
-ALXroot@@a94c85753bd4:/alx-pre_course/0x01-git/bash# cat alx
-ls
-ALXroot@a94c85753bd4:/alx-pre_course/0x01-git/bash# cat alx
-ALXroot@a94c85753bd4:~/alx-pre_course/0x01-git/bash# cat alx
-pwd
-alx-pre_course/0x01-git/bash#
-root@a94c85753bd4:/alx-pre_course/0x01-git/bash# cat > school
-#!/bin/bash
-Schoolroota94c85753bd4:~/alx-pre_course/0x01-git/bash#ls
-cd alx-pre_course/0x01-git/bash#
+#!bin/bash
 ALX
